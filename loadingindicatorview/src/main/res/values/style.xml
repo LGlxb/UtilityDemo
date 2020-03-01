@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SYLoadingIndicatorView">
+        <item name="minWidth">48dp</item>
+        <item name="maxWidth">48dp</item>
+        <item name="minHeight">48dp</item>
+        <item name="maxHeight">48dp</item>
+        <item name="indicatorName">BallPulseIndicator</item>
+    </style>
+
+    <style name="SYLoadingIndicatorView.Large">
+        <item name="minWidth">76dp</item>
+        <item name="maxWidth">76dp</item>
+        <item name="minHeight">76dp</item>
+        <item name="maxHeight">76dp</item>
+        <item name="indicatorName">BallPulseIndicator</item>
+    </style>
+
+    <style name="SYLoadingIndicatorView.Small">
+        <item name="minWidth">24dp</item>
+        <item name="maxWidth">24dp</item>
+        <item name="minHeight">24dp</item>
+        <item name="maxHeight">24dp</item>
+        <item name="indicatorName">BallPulseIndicator</item>
+    </style>
+
+</resources>

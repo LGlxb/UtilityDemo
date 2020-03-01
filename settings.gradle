@@ -1,0 +1,3 @@
+rootProject.name='UtilityDemo'
+include ':app', ':photoview', ':loadingIndicatorview'
+include ':loadingindicatorview'
